@@ -1,0 +1,190 @@
+#back
+{
+	background-image: url(../images/wd.png);
+}
+#pp-nav li{
+    background-color: white;
+    border-radius: 50px;
+}
+#back2
+{
+	background-color: black;
+}
+#back2 img
+{
+	height: 500px;
+	width: auto;
+	float: left;
+}
+#back2 .card-body
+{
+    background-color: black;
+    border :none;
+}
+#back2 .card-body h5,p,a,li
+{
+    color: white;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+#back2 .card-body li
+{
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+
+}
+.menu {
+    position: absolute;
+    top: 15px;
+    left: 60vh;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: chartreuse;
+}
+.log a
+{
+	color: white;
+	background-color: #f19435;
+	padding: 5px 6px;
+	border-radius: 3px;
+}
+.pro a
+{
+	color: black;
+	background-color: white;
+	padding: 5px 8px;
+	border-radius: 3px;
+}
+#back3 
+{
+    background-color: black;
+}
+#back3 h5,p,a
+{
+    color: white;
+}
+#back3 .card-body
+{
+    background-color: black;
+}
+.disc
+{
+    float: left;
+}
+.disc h2 {
+    color: white;
+    font-size: 40px;
+    font-family:'Do Hyeon', sans-serif;
+}
+.disc h3 {
+    color: white;
+    font-size: 65px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.disc p {
+    color: white;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+}
+.disc a {
+    color: white;
+    font-size: 20px;
+    background-color: #f19435;
+    padding: 10px 8px;
+    border-radius: 5px; 
+    text-decoration: none;
+}
+.disc a:hover {
+    color: black;
+    background-color: #f19435; 
+}
+.imgs img
+{
+    width: 310px;
+    position: relative;
+    top: 30vh;
+}
+#back2 h3
+{
+	background-color: white;
+}
+.card-body a {
+    color: white;
+    background-color: #f19435;
+    padding: 8px 5px;
+    border-radius: 5px;
+}
+.card-body h5
+{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.card-body p
+{
+    margin-bottom: 25px;
+}
+.card 
+{
+    position: absolute;
+    display: -ms-flexbox;
+    display: flex;
+    left: 41%;
+    top: 30vh;
+}
+
+#back3 img
+{
+	height: 500px;
+	width: auto;
+	float: left;
+}
+
+#back .container img
+{
+	position: absolute;
+	top: 7px;
+	float: left;
+}
+#back4
+{
+    background-color: black;
+}
+#back4 h1,label
+{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+#back3
+{
+	background-color: white;
+}
+#back4
+{
+	background-color: #a4a3a1;
+}
+#back4 h1
+{
+	text-align: center;
+}
+#back5 h1
+{
+	text-align: center;
+}
+#menu a:hover
+{
+    color: chartreuse ;
+    transition: ease-in-out 0.5s;
+}
+.form-control
+{
+    background-color: black;
+    border: none;
+    border-bottom: 2px solid white;
+}
+.form-control::placeholder
+{
+    color: white;
+    opacity: 0.7;
+}
